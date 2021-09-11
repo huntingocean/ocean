@@ -1,0 +1,107 @@
+{
+    "fish": [
+        {
+            "id": 1001,
+            "tokenId": 1001,
+            "description": "Megaptera - Ultra Rare",
+            "external_url": "https://marketplace.huntingocean.games/megaptera",
+            "image": "https://gateway.pinata.cloud/ipfs/QmTdtEShkiwVCRBRaFV7cfFGjC1bUoDkBMHp3ksQrcAvQ8",
+            "name": "Megaptera"
+        },
+        {
+            "id": 1002,
+            "tokenId": 1002,
+            "description": "Enoptera - Ulra Rare",
+            "external_url": "https://marketplace.huntingocean.games/enoptera",
+            "image": "https://gateway.pinata.cloud/ipfs/QmQgAhUmJD8tgAjQJKCRDnq4crjrB8mTbcfC9N1LDLUuGV",
+            "name": "Enoptera"
+        },
+        {
+            "id": 1003,
+            "tokenId": 1003,
+            "description": "Delphinus - Rare",
+            "external_url": "https://marketplace.huntingocean.games/delphinus",
+            "image": "https://gateway.pinata.cloud/ipfs/QmcmhdjBSh5zgvNS15n6epRK1e7ddCxuVmKK79RdbJ6z3b",
+            "name": "Delphinus"
+        },
+		{
+            "id": 1004,
+            "tokenId": 1004,
+            "description": "Medusa - Rare",
+            "external_url": "https://marketplace.huntingocean.games/medusa",
+            "image": "https://gateway.pinata.cloud/ipfs/QmRmRtDC2H31wtz9YBdSHkMag75NTJ6s4b6FgqUJYyGtWB",
+            "name": "Medusa"
+        },
+		{
+            "id": 1005,
+            "description": "Keraken - Rare",
+            "external_url": "https://marketplace.huntingocean.games/keraken",
+            "image": "https://gateway.pinata.cloud/ipfs/QmZ1Jk6VBQVd9jPWdzwUDB8TcavgZVBiGY2CqaJ9PvDoQc",
+            "name": "Keraken"
+        },
+		{
+            "id": 1006,
+            "tokenId": 1006,
+            "description": "Electra - Rare",
+            "external_url": "https://marketplace.huntingocean.games/electra",
+            "image": "https://gateway.pinata.cloud/ipfs/QmReog22MJF8dK3Jb4Peyd3nCSKQbV8NDALaH3NF9Y9Xrv",
+            "name": "Electra"
+        },
+		{
+            "id": 1007,
+            "tokenId": 1007,
+            "description": "Tetraodon - Rare",
+            "external_url": "https://marketplace.huntingocean.games/tetraodon",
+            "image": "https://gateway.pinata.cloud/ipfs/QmXizsL3e4Ye6CcirPVkLix3TJqYhv8qwnxwyAg1d8w4t6",
+            "name": "Tetraodon"
+        },
+		{
+            "id": 1008,
+            "tokenId": 1008,
+            "description": "Pleurodira - Rare",
+            "external_url": "https://marketplace.huntingocean.games/pleurodira",
+            "image": "https://gateway.pinata.cloud/ipfs/QmQQgAevaEVSgUifdSFGem4gXa1SQYjZhyaSJ43NK5woyW",
+            "name": "Pleurodira"
+        },
+		{
+            "id": 1009,
+            "tokenId": 1009,
+            "description": "Aphrodite - Rare",
+            "external_url": "https://marketplace.huntingocean.games/aphrodite",
+            "image": "https://gateway.pinata.cloud/ipfs/QmT9bHRY6mJQrVNojrRvEpUcmtKSfLQpxDJGz8MZbwNET6",
+            "name": "Aphrodite"
+        },
+		{
+            "id": 1010,
+            "tokenId": 1010,
+            "description": "Raninoida - Plenteous",
+            "external_url": "https://marketplace.huntingocean.games/raninoida",
+            "image": "https://gateway.pinata.cloud/ipfs/QmRopbin95yvjLRTGLhjfs6GKEBXuqEzC3Lz4iN9da1C4p",
+            "name": "Raninoida"
+        },
+		{
+            "id": 1011,
+            "tokenId": 1011,
+            "description": "Rhizo - plentenous",
+            "external_url": "https://marketplace.huntingocean.games/rhizo",
+            "image": "https://gateway.pinata.cloud/ipfs/Qmbm9aMV4QYQVNxtRks9PVj4ohxGThfJkVAUXgbtX49HDn",
+            "name": "Rhizo"
+        },
+		{
+            "id": 1012,
+            "tokenId": 1012,
+            "description": "Polip - Plenteous",
+            "external_url": "https://marketplace.huntingocean.games/polip",
+            "image": "https://gateway.pinata.cloud/ipfs/QmV7Xa8sRW81wSvT4oXdnP8tbmpLY3SizDi9UHEkSCQRN3",
+            "name": "Polip"
+        },
+		{
+            "id": 1013,
+            "tokenId": 1013,
+            "description": "Zosimus - Plentenous",
+            "external_url": "https://marketplace.huntingocean.games/Zosimuz",
+            "image": "https://gateway.pinata.cloud/ipfs/QmawTSoLVqR3gDtuJspfw96K7z6HYo7VFH6yEF4CWSph4c",
+            "name": "Zosimus"
+        }
+    ]
+}
